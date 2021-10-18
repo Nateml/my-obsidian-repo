@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integration.md",
+            "file": "Partial Fractions.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integration.md",
+            "file": "Partial Fractions.md",
             "mode": "preview"
           }
         },
@@ -96,9 +96,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Integration.md",
+                "file": "Partial Fractions.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -119,8 +119,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6989606412938225,
-                  "close": false
+                  "scale": 0.3414744101388284,
+                  "close": true
                 }
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integration.md",
+                "file": "Partial Fractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integration.md"
+                "file": "Partial Fractions.md"
               }
             }
           }
@@ -164,19 +164,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 518
   },
   "active": "ff2c865a2096895b",
   "lastOpenFiles": [
-    "Integration.md",
+    "Partial Fractions.md",
     "011 Maths & Science MOC.md",
-    "010 Academics MOC.md",
-    "000 Home.md",
-    "Latex Cheatsheet.md",
-    "Sources/AP Mathematics Textbook/Untitled.md",
-    "Sources/Untitled.md",
-    "Untitled.md",
+    "Polynomial Long Division.md",
+    "Partial Functions.md",
+    "Newton-Raphson Method.md",
+    "AP Maths Study List.md",
+    "Integration.md",
     "Differentiation.md",
-    "Cubic functions.md"
+    "010 Academics MOC.md",
+    "000 Home.md"
   ]
 }

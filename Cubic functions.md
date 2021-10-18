@@ -1,4 +1,4 @@
-<-- [[Functions MOC]]
+<-- [[Functions]]
 
 # Cubic functions
 

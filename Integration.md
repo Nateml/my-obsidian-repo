@@ -22,6 +22,11 @@ where a and b are given values.
 
 ## Methods of integrating a function
 
+### General cool tips 
+
+co-efficients of function can be taken out: $\int ax^{n} = a\int x^{n}$ 
+
+
 ### Reverse of the chain rule
 
 Undo the [[Differentiation#Chain rule | chain rule]].
@@ -30,6 +35,8 @@ Rule:
 $$\begin{align}
 \int a(x)^{n}= (\frac{a}{n+1}(x)^{n+1})\frac{1}{\textrm{derivative of x}} + c
 \end{align}$$
+
+^301e3f
 
 Example:
 $$\begin{align}
@@ -70,6 +77,27 @@ In the above example, u is chosen so that $\frac{du}{dx}$ is equal to a factor i
 Alternatively, x can be put in terms of u and the expression can be integrated with respect to $u$, if $\frac{du}{dx} = 1$.
 
 ### Integration by parts
+
+$$\int u\cdot v' = u \cdot v - \int v\cdot u'$$
+
+1. term $a$ multiplied by integral of term $b$.
+2. minus 
+3. the integral of the integral of term $b$ multiplied by derivative of term $a$.
+
+*choosing $a$ and $b$*:
+- $a$ should be easily differentiated.
+- $b$ should be easily integrated.
+- $\left(\int b\right)\cdot a'$ should be easily integrated.
+- try choose $a$ so that $a'$ is a constant.
+
+Example:
+$$\begin{align}
+\int \frac{x}{\sqrt{2x+1}}dx &= \int x(2x+1)^{-\frac{1}{2}}dx\\
+	&= x(2x+1)^{\frac{1}{2}}-\int (2x+1)^{\frac{1}{2}}(1)dx \\
+	&= x(2x+1)^{\frac{1}{2}} - \frac{1}{3}(2x+1)^{\frac{3}{2}} + c
+\end{align}$$
+
+If you're confused about the the transition from the second to third line of the above example, see [[Integration#^301e3f]].
 
 
 

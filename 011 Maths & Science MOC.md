@@ -22,12 +22,15 @@ If you're not sure if something should be placed here. Think:
 - [[Differentiation]]
 - [[Integration]]
 - [[Continuity & Differentiability]]
-- [[Functions MOC]]
+- [[Functions]]
+- [[Newton-Raphson Method]]
 
 ##  Algebra
 
 - [[Complex Numbers]]
 - [[Absolute Values]]
+- [[Partial Fractions]]
+- [[Polynomial Long Division]]
 
 ## Physics
 
