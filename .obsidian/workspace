@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "d6c966cb83379c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2c865a2096895b",
+        "type": "leaf",
+        "dimension": 64.29056347589952,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Integration.md",
+            "mode": "source"
+          }
+        },
+        "group": "1d7155b047bce2e2"
+      },
+      {
+        "id": "400c6ed23e50a0d9",
+        "type": "leaf",
+        "dimension": 35.709436524100475,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Integration.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1d7155b047bce2e2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a2dfe07e5a64480",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf19f617ad1758b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc55dc499ee230f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d14afc471cf4c204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2de012edbbc32e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a4dabfbe9abd99",
+        "type": "tabs",
+        "dimension": 56.28908964558722,
+        "children": [
+          {
+            "id": "1159dd03fcf20e8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a467e1914048ec6b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Integration.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6989606412938225,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "80ae94c73b7e1bdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "43edbd5eaf2dad1c",
+        "type": "tabs",
+        "dimension": 43.71091035441278,
+        "children": [
+          {
+            "id": "19895711b4ce508c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Integration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387
+  },
+  "active": "ff2c865a2096895b",
+  "lastOpenFiles": [
+    "Integration.md",
+    "011 Maths & Science MOC.md",
+    "010 Academics MOC.md",
+    "000 Home.md",
+    "Latex Cheatsheet.md",
+    "Sources/AP Mathematics Textbook/Untitled.md",
+    "Sources/Untitled.md",
+    "Untitled.md",
+    "Differentiation.md",
+    "Cubic functions.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "spellcheckDictionary": [
+    "Cheatsheet",
+    "cheatsheets",
+    "Maths",
+    "Differentiability",
+    "differentiability",
+    "maths"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current"
+}
