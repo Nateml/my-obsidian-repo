@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Test File.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Test File.md",
             "mode": "preview"
           }
         },
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "Test File.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Test File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Home.md"
+                "file": "Test File.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "ff2c865a2096895b",
   "lastOpenFiles": [
+    "Untitled.md",
     "000 Home.md",
     "Partial Fractions.md",
     "011 Maths & Science MOC.md",
@@ -176,7 +177,6 @@
     "Newton-Raphson Method.md",
     "AP Maths Study List.md",
     "Integration.md",
-    "Differentiation.md",
-    "010 Academics MOC.md"
+    "Differentiation.md"
   ]
 }
