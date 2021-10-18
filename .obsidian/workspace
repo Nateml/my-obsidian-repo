@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partial Fractions.md",
+            "file": "000 Home.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partial Fractions.md",
+            "file": "000 Home.md",
             "mode": "preview"
           }
         },
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partial Fractions.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partial Fractions.md"
+                "file": "000 Home.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "ff2c865a2096895b",
   "lastOpenFiles": [
+    "000 Home.md",
     "Partial Fractions.md",
     "011 Maths & Science MOC.md",
     "Polynomial Long Division.md",
@@ -176,7 +177,6 @@
     "AP Maths Study List.md",
     "Integration.md",
     "Differentiation.md",
-    "010 Academics MOC.md",
-    "000 Home.md"
+    "010 Academics MOC.md"
   ]
 }
