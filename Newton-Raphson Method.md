@@ -1,4 +1,8 @@
-<-- [[011 Maths & Science MOC]]
+---
+	title: "Newton-Raphson Method"
+---
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
+
 # Newton-Raphson Method
 
 Kinda cool. Method to find the root of a function.
@@ -14,11 +18,11 @@ We keep drawing tangents to the graph at $f(x_n)$ . After every iteration, $x_n$
 Just jam the above into your calculator by getting an initial answer, then using the calculator's "ans" variable to iterate it until the output settles on a single value.
 
 ## Limitations
-Sometimes the initial approximation needs to be annoyingly accurate. The method might not work if there are point of inflection, local maxima or minima around $x_0$ or the root. See [[Cubic functions#Derivatives]].
+Sometimes the initial approximation needs to be annoyingly accurate. The method might not work if there are point of inflection, local maxima or minima around $x_0$ or the root. See [Derivatives of cubic function](Cubic%20functions.md#Derivatives).
 
 ## Related
 
-See [[Differentiation]].
+See [Differentiation](Differentiation.md).
 
 ---
 

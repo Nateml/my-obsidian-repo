@@ -1,6 +1,6 @@
 ---
+title: "LaTex Cheatsheet"
 date created: 2021-10-17 14:40
-
 ---
 
 # LaTex Cheatsheet

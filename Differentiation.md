@@ -1,16 +1,19 @@
-tags: #calculus #mathematics
+---
+	title: "Differentiation"
+---
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
 
 # Differentiation
 
-The process of finding the [[Derivatives | derivative]] of a function.
+The process of finding the [derivative](Derivatives.md) of a function.
 
 Gets the rate of change of a function. A new function mapping the gradient of the original function.
 
-Opposite of [[Integration | integration]].
+Opposite of [integration](Integration.md).
 
 ## First principles
 
-Long way of doing it. Follows the [[Derivatives#^ed08eb| definition of a derivative]].
+Long way of doing it. Follows the [definition of a derivative](Derivatives.md#^ed08eb).
 
 $$\begin{align}
 f'(x) = \lim_{h\to0}\frac{f(x+h) - f(x)}{h}
@@ -50,8 +53,12 @@ x^{2}+ y^{2}&=4 \\
 
 Above only useful in certain situations. For example, finding the slope of the tangent at a point on the above function. Sub in point to find the slope.
 
+Note that you must write down $\frac{dy}{dx}$ whenever you differentiate a $y$.
 Also make sure to use correct rules. Product and chain rule if there is an $xy^{n}$ term. 
 
 ## Applications 
 
-See [[Cubic functions#^fa2300]]
+See [Cubic functions](Cubic%20functions.md#^fa2300)
+
+---
+ #calculus #mathematics

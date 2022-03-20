@@ -1,6 +1,11 @@
+---
+	title: "Integration"
+---
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
+
 # Integration
 
-Opposite of [[Differentiation | differentiation]].
+Opposite of [differentiation](Differentiation.md).
 
 Finds the *area under the graph*.
 
@@ -29,7 +34,7 @@ co-efficients of function can be taken out: $\int ax^{n} = a\int x^{n}$
 
 ### Reverse of the chain rule
 
-Undo the [[Differentiation#Chain rule | chain rule]].
+Undo the [chain rule](Differentiation.md#Chain%20rule).
 
 Rule:
 $$\begin{align}
@@ -97,7 +102,7 @@ $$\begin{align}
 	&= x(2x+1)^{\frac{1}{2}} - \frac{1}{3}(2x+1)^{\frac{3}{2}} + c
 \end{align}$$
 
-If you're confused about the the transition from the second to third line of the above example, see [[Integration#^301e3f]].
+If you're confused about the the transition from the second to third line of the above example, see [undoing the chain rule](Integration.md#^301e3f).
 
 
 

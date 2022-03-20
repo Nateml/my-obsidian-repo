@@ -1,6 +1,12 @@
+---
+	title: "{{title}}"
+	date created: {{date}} {{time}}
+---
 # {{title}}
-Created: {{date}} {{time}}
 
 
 # References
 1. 
+
+---
+tags: #untagged

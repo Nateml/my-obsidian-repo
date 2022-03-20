@@ -1,8 +1,10 @@
 ---
+title: "Complex Numbers"
 date created: 2021-10-17 14:36
 date updated: 2021-10-17 14:38
-
 ---
+
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
 
 # Complex Numbers
 
@@ -10,7 +12,7 @@ date updated: 2021-10-17 14:38
 
 $a + bi$
 
-- $a$ is the real part, while $b$ is imaginary part(see [[Imaginary Numbers]]).
+- $a$ is the real part, while $b$ is imaginary part(see [Imaginary Numbers](Imaginary%20Numbers.md)).
 
 Imaginary part is the coefficient of $i$.
 
@@ -30,15 +32,15 @@ Conjugate of above:
 
 > $$\overline{z} = a - bi$$
 
-![[Excalidraw/Complex Number Conjugate Graph.md]]
+![Excalidraw/Complex Number Conjugate Graph.md](Excalidraw/Complex%20Number%20Conjugate%20Graph.md)
 
 > $$z + \overline{z} = 2Re(z)$$
 
 ## Simplifying expressions with complex numbers
 
-1. [Simplify imaginary parts](obsidian://open?vault=Knowledge%20Base&file=Imaginary%20Numbers).
+1. [Imaginary Numbers](Imaginary%20Numbers.md)
 2. Simplify real parts.
-3. Put in [[Complex Numbers#Standard-form | standard form]].
+3. Put in [standard form](Complex%20Numbers.md#Standard-form)
 
 ## Solving equations with complex numbers
 
@@ -60,7 +62,7 @@ $$\begin{align}
 \end{align}$$
 
 ## Absolute values of complex numbers
-See [[Absolute Values]].
+See [Absolute Values](Absolute%20Values.md).
 
 $$\begin{align}
 |3-4i| \\ \\
@@ -70,5 +72,7 @@ $$\begin{align}
 \end{align}$$
 
 Above can be visualized using a Cartesian plane.
-![[Excalidraw/Absolute value of complex number.md]]
-$$$
+![Excalidraw/Absolute value of complex number.md](Excalidraw/Absolute%20value%20of%20complex%20number.md)
+
+---
+#algebra 

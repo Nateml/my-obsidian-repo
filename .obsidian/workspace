@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "d6c966cb83379c54",
+    "id": "ccd1ae8adc38426a",
     "type": "split",
     "children": [
       {
-        "id": "ff2c865a2096895b",
+        "id": "8d8a739a3cf0dcb5",
         "type": "leaf",
-        "dimension": 64.29056347589952,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test File.md",
-            "mode": "source"
+            "file": "Orbital Period.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "1d7155b047bce2e2"
-      },
-      {
-        "id": "400c6ed23e50a0d9",
-        "type": "leaf",
-        "dimension": 35.709436524100475,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test File.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1d7155b047bce2e2"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 210
   },
   "right": {
     "id": "2de012edbbc32e71",
@@ -77,7 +62,7 @@
       {
         "id": "71a4dabfbe9abd99",
         "type": "tabs",
-        "dimension": 56.28908964558722,
+        "dimension": 50,
         "children": [
           {
             "id": "1159dd03fcf20e8a",
@@ -96,18 +81,18 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test File.md",
+                "file": "Orbital Period.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -119,9 +104,35 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3414744101388284,
+                  "scale": 0.2502433264746386,
                   "close": true
                 }
+              }
+            }
+          },
+          {
+            "id": "cddd51286159f7c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "43edbd5eaf2dad1c",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "19895711b4ce508c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orbital Period.md"
               }
             }
           },
@@ -131,9 +142,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test File.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Orbital Period.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -144,39 +155,22 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "43edbd5eaf2dad1c",
-        "type": "tabs",
-        "dimension": 43.71091035441278,
-        "children": [
-          {
-            "id": "19895711b4ce508c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Test File.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 518
+    "width": 353.0933532714844
   },
-  "active": "ff2c865a2096895b",
+  "active": "8d8a739a3cf0dcb5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "000 Home.md",
-    "Partial Fractions.md",
+    "Orbital Period.md",
     "011 Maths & Science MOC.md",
-    "Polynomial Long Division.md",
-    "Partial Functions.md",
+    "Articles/Oral creatine supplementation improves brain performance.md",
+    "Images/CreatineStudyFig1.png",
+    "Natural Selection.md",
+    "Charles Darwin.md",
+    "Alfred Russel Wallace.md",
     "Newton-Raphson Method.md",
-    "AP Maths Study List.md",
-    "Integration.md",
-    "Differentiation.md"
+    "Macroevolution.md",
+    "Microevolution.md"
   ]
 }

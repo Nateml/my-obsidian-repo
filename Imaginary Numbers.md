@@ -1,3 +1,8 @@
+---
+	title: "Imaginary Numbers"
+---
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
+
 # Imaginary Numbers
 The imaginary unit:
 $$i = \sqrt{-1}$$
@@ -56,4 +61,7 @@ i^{8} &= i^{4} \times i^{4} \\
 **$i$ raised to a multiple of 4 is always equal to 1**
 Therefore all large powers of i can be simplified to the sum of two terms, one of which has a multiple of 4 as a power. The answer will simply be equal to the term which does not carry the $4n$ power.
 
+---
+
+#calculus 
 

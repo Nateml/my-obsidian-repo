@@ -1,4 +1,7 @@
-<-- [[Functions]]
+---
+	title: "Cubic functions"
+---
+<-- [Functions](Functions.md)
 
 # Cubic functions
 

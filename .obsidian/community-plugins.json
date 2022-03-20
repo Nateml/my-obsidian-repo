@@ -1,10 +1,23 @@
 [
-  "templater-obsidian",
   "obsidian-autocomplete-plugin",
   "obsidian-vimrc-support",
   "quick-latex",
   "obsidian-excalidraw-plugin",
   "text-snippets-obsidian",
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "obsidian-outliner",
+  "nldates-obsidian",
+  "url-into-selection",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-emoji-toolbar",
+  "find-unlinked-files",
+  "quickadd",
+  "sliding-panes-obsidian",
+  "hotkeysplus-obsidian",
+  "wikilinks-to-mdlinks-obsidian",
+  "better-word-count",
+  "obsidian-admonition"
 ]

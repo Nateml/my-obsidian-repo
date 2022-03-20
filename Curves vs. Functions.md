@@ -1,4 +1,7 @@
-<-- [[011 Maths & Science MOC]]
+---
+	title: "Curves vs. Functions"
+---
+<-- [011 Maths & Science MOC](011%20Maths%20&%20Science%20MOC.md)
 
 # Curves vs. Functions
 

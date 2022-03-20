@@ -1,3 +1,6 @@
+---
+	title: "Derivatives"
+---
 # Derivatives
 Gives the function $f(x)$ of the slope (gradient) of another function $g(x)$.
 
@@ -10,4 +13,4 @@ f'(x) = \lim_{h\to0}\frac{f(x+h) - f(x)}{h}
 The above is comparable to the equation $m = \frac{\delta y}{\delta x}$. The fraction finds the gradient between two points on the function's graph. Instead of passing in concrete values, a generalization is made by using the variable $h$.
 
 # Differentiation
-See [[Differentiation]]
+See [Differentiation](Differentiation.md)

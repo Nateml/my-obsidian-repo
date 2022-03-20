@@ -3,20 +3,70 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 10772445
+      }
+    },
+    {
+      "query": "tag:#calculus",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#algebra",
+      "color": {
+        "a": 1,
+        "rgb": 14735186
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "tag:#evolution",
+      "color": {
+        "a": 1,
+        "rgb": 3080045
+      }
+    },
+    {
+      "query": "tag:#people",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#untagged",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 0.476923076923077,
-  "lineSizeMultiplier": 4.12051282051282,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.852664576802508,
+  "lineSizeMultiplier": 1.13048930080414,
   "collapse-forces": false,
-  "centerStrength": 0.564102564102564,
-  "repelStrength": 10,
-  "linkStrength": 0.700854700854701,
-  "linkDistance": 251,
-  "scale": 0.698960641293819,
+  "centerStrength": 0.319340329835083,
+  "repelStrength": 13.0162191631457,
+  "linkStrength": 0.908136840670574,
+  "linkDistance": 192,
+  "scale": 0.22410837670205544,
   "close": false
 }
