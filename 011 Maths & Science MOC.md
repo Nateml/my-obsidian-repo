@@ -31,6 +31,9 @@ If you're not sure if something should be placed here. Think:
 - [Imaginary Numbers](Imaginary%20Numbers.md)
 - [Orbital Period](Orbital%20Period.md)
 
+## Linear Algebra
+- [[Linear Algebra]]
+
 ##  Algebra
 
 - [Complex Numbers](Complex%20Numbers.md)

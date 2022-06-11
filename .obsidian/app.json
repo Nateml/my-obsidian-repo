@@ -54,9 +54,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "Images",
   "legacyEditor": false,

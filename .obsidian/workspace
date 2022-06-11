@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8a739a3cf0dcb5",
+        "id": "bfebbde419067f35",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Orbital Period.md",
-            "mode": "source",
+            "file": "Skew Symmetric Matrix.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 210,
+    "collapsed": true
   },
   "right": {
     "id": "2de012edbbc32e71",
@@ -81,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orbital Period.md",
+                "file": "Skew Symmetric Matrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -93,18 +94,26 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "path:Sources",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4052705
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2502433264746386,
+                  "scale": 0.48855457206471775,
                   "close": true
                 }
               }
@@ -115,6 +124,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aafaa5370a1bdab8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -132,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orbital Period.md"
+                "file": "Skew Symmetric Matrix.md"
               }
             }
           },
@@ -142,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbital Period.md",
+                "file": "Skew Symmetric Matrix.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,19 +175,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.0933532714844
+    "width": 316.8333435058594,
+    "collapsed": true
   },
-  "active": "8d8a739a3cf0dcb5",
+  "active": "bfebbde419067f35",
   "lastOpenFiles": [
-    "Orbital Period.md",
-    "011 Maths & Science MOC.md",
-    "Articles/Oral creatine supplementation improves brain performance.md",
-    "Images/CreatineStudyFig1.png",
-    "Natural Selection.md",
-    "Charles Darwin.md",
-    "Alfred Russel Wallace.md",
-    "Newton-Raphson Method.md",
-    "Macroevolution.md",
-    "Microevolution.md"
+    "Skew Symmetric Matrix.md",
+    "Images/skewsymmetricmatrixexcerpt.png",
+    "Symmetric Matrix.md",
+    "Courses/MIT 18.06 Linear Algebra, Spring 2005 - Gilbert Strang.md",
+    "Sources/The Determinant - 3Blue1Brown.md",
+    "Determinant of a Matrix.md",
+    "Visualising Matrix Operations as Transformations.md",
+    "Sources/Inverse Matrices, Column Space and Null Space - 3Blue1brown.md",
+    "Null Space.md",
+    "Vector Subspaces.md"
   ]
 }

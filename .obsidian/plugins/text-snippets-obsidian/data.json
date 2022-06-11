@@ -1,11 +1,31 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nbegin : $$\\begin{align}$nl$$end$$nl$\\end{align}$$\n",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nbegin : $$\\begin{align}$nl$$end$$nl$\\end{align}$$\nmatrix : \\begin{bmatrix}$end$\\end{bmatrix}\n4imatrix: \\begin{bmatrix}\n\t1 & 0 & 0 & 0 \\\\\n\t0 & 1 & 0 & 0 \\\\\n\t0 & 0 & 1 & 0 \\\\\n\t0 & 0 & 0 & 1 \\\\\n\\end{bmatrix}$end$\n3imatrix: \\begin{bmatrix}\n\t1 & 0 & 0 & 0 \\\\\n\t0 & 1 & 0 & 0 \\\\\n\t0 & 0 & 1 & 0 \\\\\n\\end{bmatrix}$end$\n2imatrix: \\begin{bmatrix}\n\t1 & 0 & 0 & 0 \\\\\n\t0 & 1 & 0 & 0 \\\\\n\\end{bmatrix}$end$",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "begin : $$\\begin{align}$nl$$end$$nl$\\end{align}$$"
+    "begin : $$\\begin{align}$nl$$end$$nl$\\end{align}$$",
+    "matrix : \\begin{bmatrix}$end$\\end{bmatrix}",
+    "4imatrix: \\begin{bmatrix}",
+    "\t1 & 0 & 0 & 0 \\\\",
+    "\t0 & 1 & 0 & 0 \\\\",
+    "\t0 & 0 & 1 & 0 \\\\",
+    "\t0 & 0 & 0 & 1 \\\\",
+    "\\end{bmatrix}$end$",
+    "3imatrix: \\begin{bmatrix}",
+    "\t1 & 0 & 0 & 0 \\\\",
+    "\t0 & 1 & 0 & 0 \\\\",
+    "\t0 & 0 & 1 & 0 \\\\",
+    "\\end{bmatrix}$end$",
+    "2imatrix: \\begin{bmatrix}",
+    "\t1 & 0 & 0 & 0 \\\\",
+    "\t0 & 1 & 0 & 0 \\\\",
+    "\\end{bmatrix}$end$"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
   "stopSymbol": "$tb$",
-  "useTab": false
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
 }

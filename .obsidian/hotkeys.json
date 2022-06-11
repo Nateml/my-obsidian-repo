@@ -39,5 +39,21 @@
       ],
       "key": "."
     }
+  ],
+  "media-extended:open-media-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "media-extended:get-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
