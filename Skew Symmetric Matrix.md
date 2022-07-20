@@ -8,8 +8,6 @@ created: 2022-06-11 17;13
 $$A^T=-A$$
 By the *negative* of matrix $A$, it is meant that for each entry $i,j$ in matrix $A$, the corresponding entry $i,j$ in matrix $A^T$ is the negative of that entry in $A$.
 
-Testing obsidian-git plugin.
-
 **All entries on the diagonal of a skew symmetric matrix are zero**
 
 ![[Images/skewsymmetricmatrixexcerpt.png]]
